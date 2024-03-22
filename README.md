@@ -1,5 +1,5 @@
      
-<h1 align="center"> Eai glr! Eu sou o Ulisses Ribeiro Ferreira! </h1>
+<h1 align="center" font-size=""> Eai glr! Eu sou o Ulisses Ribeiro Ferreira! </h1>
 
 **Atualmente sou estudante fazendo um curso técnico de Informática.
 Tenho especialidades com HTML, CSS, JS, PHP e SQL.**
@@ -11,25 +11,15 @@ Tenho especialidades com HTML, CSS, JS, PHP e SQL.**
 </div>
 
 ##
-<div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=UlissesRFk&show_icons=true&theme=holi"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=UlissesRFk&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=UlissesRFk&show_icons=true" />
-</picture>
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesRFk&layout=compact)
+<div>
+<img height="180 em" src="https://github-readme-stats.vercel.app/api?username=UlissesRFk&show_icons=true" />
+<img align ="right" height="180 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesRFk&layout=compact">
 </div>
 
-  <h2> Minhas Linguagens </h2> 
+  <h2 align="center"> Minhas Linguagens </h2> 
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Ulisses-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="UlissesRafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ulisses-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
