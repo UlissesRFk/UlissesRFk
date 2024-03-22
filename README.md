@@ -12,7 +12,8 @@ Tenho especialidades com HTML, CSS, JS, PHP e SQL.**
 
 <div>
 <img height="180 em" src="https://github-readme-stats.vercel.app/api?username=UlissesRFk&show_icons=true" />
-<img align ="right" height="180 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesRFk&layout=compact">
+     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img align ="left" height="180 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesRFk&layout=compact">
 </div>
 
 <div align ="center">
