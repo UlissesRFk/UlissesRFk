@@ -1,5 +1,5 @@
      
-<h1 text-aling="center"> Eai glr! Eu sou o Ulisses Ribeiro Ferreira! </h1>
+<h1 text-align="center"> Eai glr! Eu sou o Ulisses Ribeiro Ferreira! </h1>
 
 Atualmente sou estudante fazendo um curso técnico de Informática.
 Tenho especialidades com HTML, CSS, JS, PHP e SQL.
@@ -12,7 +12,7 @@ Tenho especialidades com HTML, CSS, JS, PHP e SQL.
 
 ##
 <div>
-<picture height="180em">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=UlissesRFk&show_icons=true&theme=holi"
     media="(prefers-color-scheme: dark)"
