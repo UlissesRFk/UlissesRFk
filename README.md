@@ -11,7 +11,7 @@ Tenho especialidades com HTML | CSS | JS | PHP | SQL </h3>
 
 <div class="Imagens do meio">
 <img height="180 em" src="https://github-readme-stats.vercel.app/api?username=UlissesRFk&theme=midnight-purple&show_icons=true" />
-     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode"> 
+     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode"> 
 <img align ="left" height="165 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesRFk&theme=midnight-purple&layout=compact"> <br>
     <div class="Redes Sociais">
  <a align="right"   height="30" width="40"  href="https://instagram.com/ulisses.rfk_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
