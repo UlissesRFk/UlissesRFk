@@ -1,8 +1,8 @@
      
 <h1 align="center"> Eai glr! Eu sou o Ulisses Ribeiro Ferreira! </h1>
 
-Atualmente sou estudante fazendo um curso técnico de Informática.
-Tenho especialidades com HTML, CSS, JS, PHP e SQL.
+<strong> Atualmente sou estudante fazendo um curso técnico de Informática.
+Tenho especialidades com HTML, CSS, JS, PHP e SQL. </strong>
 
 <div align ="center"> 
   <a href="https://instagram.com/ulisses.rfk_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
