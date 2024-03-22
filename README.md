@@ -1,6 +1,6 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=heading"/>    
-<h1 align="center">Eai glr! Eu sou o Ulisses! </h1>
- <h3 align="center"> Atualmente sou estudante fazendo um curso técnico de Informática.
+<h1 align="center">Eai glr! Eu sou o Ulisses! </h1> <br>
+ <h3 align="center"> Atualmente sou estudante fazendo um curso técnico de Informática. <br>
 Tenho especialidades com HTML | CSS | JS | PHP | SQL </h3>
 
 <div style="display: inline_block" align="center">
