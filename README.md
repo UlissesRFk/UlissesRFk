@@ -11,9 +11,8 @@ Tenho especialidades com HTML, CSS, JS, PHP e SQL.
 </div>
 
 ##
-<div aling="center">
-     <div style="display: inline_block">
-<picture>
+<div>
+<picture height="180em">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=UlissesRFk&show_icons=true&theme=holi"
     media="(prefers-color-scheme: dark)"
@@ -25,11 +24,10 @@ Tenho especialidades com HTML, CSS, JS, PHP e SQL.
   <img src="https://github-readme-stats.vercel.app/api?username=UlissesRFk&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesRFk&layout=compact)
-    </div>
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesRFk&layout=compact)
 </div>
 
-  <h2> Minhas Linguagens </h2> ##
+  <h2> Minhas Linguagens </h2> 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ulisses-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
