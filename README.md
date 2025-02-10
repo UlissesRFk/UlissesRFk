@@ -1,7 +1,7 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=heading"/>    
-<h1 align="center">Eai glr! Eu sou o Ulisses! </h1> <br>
- <h3 align="center"> Atualmente sou estudante fazendo um curso técnico de Informática. <br>
-Tenho especialidades com HTML | CSS | JS | PHP | SQL </h3>
+<h1 align="center">Olá, pessoal! Eu sou o Ulisses! </h1> <br>
+ <h3 align="center"> Atualmente me formei no ensino médio no curso de informática e vou cursar Sistemas e Mídias Digitais na UFC <br>
+Tenho especialidades com WordPress | PHP | Looker Studio | Laravel | SQL </h3>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="UlissesRafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
