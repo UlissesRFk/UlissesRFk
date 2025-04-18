@@ -1,6 +1,6 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=heading"/>    
 <h1 align="center">Olá, pessoal! Eu sou o Ulisses! </h1> <br>
- <h3 align="center"> Atualmente me formei no ensino médio no curso de informática e vou cursar Sistemas e Mídias Digitais na UFC <br>
+ <h3 align="center"> Atualmente, me formei no ensino médio no curso de informática e vou cursar Sistemas e Mídias Digitais na <strong>UFC</strong> <br>
 Tenho especialidades com WordPress | PHP | Looker Studio | Laravel | SQL </h3>
 
 <div style="display: inline_block" align="center">
